@@ -3,7 +3,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-19T15:37:28.228606-03:00"
+    created: "2021-07-19T16:23:19.10231-03:00"
     description: A Helm chart for Kubernetes
     digest: dda9902e8a29c60950c6e3c934b8c37a03f657c224a3ad91dc4eeeb5847a064a
     name: helm-chart-test
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://alissonit.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-19T15:37:28.227702-03:00"
+  helm-chart-test2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-19T16:23:19.102977-03:00"
+    description: A Helm chart for Kubernetes
+    digest: be894266ae73d8f9e15b4fa3c2d8ec8a300006f426bed29425c062713176ef69
+    name: helm-chart-test2
+    type: application
+    urls:
+    - https://alissonit.github.io/helm-chart/helm-chart-test2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-19T16:23:19.101362-03:00"
